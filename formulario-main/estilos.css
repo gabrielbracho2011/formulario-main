@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.formulario-posicion{
+    text-align: center;
+    border: solid 2px blue;
+    margin-top: 50px;
+    width: 500px;
+    height: 320px;
+    border-radius: 5%;
+    background-color: #f9e6a1;
+}
+
+textarea{
+    resize: none;
+}
+
+.estilos-h2{
+    color: tomato;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.fira-sans-regular {
+  font-family: "Fira Sans", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+section{
+  display: inline-block;
+}
+
+header{
+  display: inline-block;
+}
+
+main{
+  display: inline-block;
+}
+
+nav{
+  display: inline-block;
+}
+
+.estilos-imagen{
+  align-items: center;
+}
+
+.menu-opciones li{
+
+}
